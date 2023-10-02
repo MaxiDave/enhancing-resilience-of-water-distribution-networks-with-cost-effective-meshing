@@ -1,0 +1,9 @@
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/CMakeFiles/epanet2.dir
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/CMakeFiles/edit_cache.dir
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/CMakeFiles/rebuild_cache.dir
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/run/CMakeFiles/runepanet.dir
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/run/CMakeFiles/edit_cache.dir
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/run/CMakeFiles/rebuild_cache.dir
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/src/outfile/CMakeFiles/epanet-output.dir
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/src/outfile/CMakeFiles/edit_cache.dir
+/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/src/outfile/CMakeFiles/rebuild_cache.dir

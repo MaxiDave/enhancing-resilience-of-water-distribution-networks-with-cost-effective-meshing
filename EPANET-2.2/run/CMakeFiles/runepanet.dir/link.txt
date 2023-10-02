@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/runepanet.dir/main.c.o -o ../bin/runepanet  -Wl,-rpath,/home/david.ma/water-networks-reliability-optimization/EPANET-2.2/lib ../lib/libepanet2.so -lm 
